@@ -1,5 +1,5 @@
 # SigMakerEXT
-A sigmaker that i made because i was bored too, its working now xd
+A sigmaker that i made intirely in C++ because i was bored too, its working now xd
 
 Libs used:
 
